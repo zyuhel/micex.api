@@ -21,7 +21,7 @@
   "homepage": "https://github.com/sklyukin/micex.api#readme",
   "dependencies": {
     "debug": "^2.2.0",
-    "lodash": "^3.10.1",
+    "lodash": ">=4.17.5",
     "request": "^2.60.0"
   },
   "devDependencies": {
